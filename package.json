@@ -1,0 +1,27 @@
+{
+  "name": "homework-9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertrunstrails71/Homework-9.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertrunstrails71/Homework-9/issues"
+  },
+  "homepage": "https://github.com/robertrunstrails71/Homework-9#readme",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "dotenv": "^8.2.0",
+    "html-pdf": "^2.2.0",
+    "inquirer": "^7.0.3",
+    "open": "^7.0.0",
+    "path": "^0.12.7"
+  }
+}
